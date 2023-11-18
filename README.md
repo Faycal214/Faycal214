@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faycal alikacem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faycal alikacem" height="30" width="40" /></a>
-<a href="https://fb.com/fayçal alikacem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fayçal alikacem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faycal-alikacem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faycal-alikacem" height="30" width="40" /></a>
+<a href="https://fb.com/alikacem.faycal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alikacem.faycal" height="30" width="40" /></a>
 <a href="https://instagram.com/faycalafb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faycalafb" height="30" width="40" /></a>
 </p>
 
