@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **faycal213.dz@gmail.com**
 
-- ⚡ Fun fact **I like cats :)**
+- ⚡ Fun fact **SIX without S is 9 bro :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
