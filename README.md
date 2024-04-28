@@ -2,13 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alikacem+Faycal!;" />
 </h1>
 
-<h3 align="center">AI enthusiast turning data into decisions 💻🤖</h3>
+<h3 align="center">Math & data enthusiast turning numbers into decisions 💻📊</h3>
 
 <br/>
 
 <div align="center">
+
+  A student of applied mathematics with a strong interest in data science, machine learning, and deep learning .
+  enjoying exploring mathematical concepts and applying them to real-world problems.
  
- 🌱 I’m currently learning **tensorflow**
+ 🌱 I’m currently learning **Pulp**
 
 💬 Ask me about **Python, sql... or anything [here](https://github.com/Faycal214/Faycal214/issues)**
 
@@ -22,9 +25,6 @@
   </a>
   <a href="www.linkedin.com/in/faycal-alikacem" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.instagram.com/faycalafb/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://discord.com/users/900128876309671936" target="_blank">
      <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
