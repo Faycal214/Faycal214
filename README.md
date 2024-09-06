@@ -2,22 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alikacem+Faycal!;" />
 </h1>
 
-<h3 align="center">Math & data enthusiast turning numbers into decisions 💻📊</h3>
-
 <br/>
 
 <div align="center">
 
-  A student of applied mathematics with a strong interest in data science, machine learning, and deep learning .
-  enjoying exploring mathematical concepts and applying them to real-world problems.
+  Operational research student with a solid foundation in data science and AI, including machine learning, deep learning, reinforcement learning, and natural language processing. Passionate about problem-solving and specializing in optimizing complex systems, with a focus on modeling and implementing solutions through programming.
  
- 🌱 I’m currently learning **Pulp**
-
-💬 Ask me about **Python, sql... or anything [here](https://github.com/Faycal214/Faycal214/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+</div>
  
 <div align="center"> 
   <a href="faycal213.dz@gmail.com">
