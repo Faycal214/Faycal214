@@ -5,24 +5,9 @@
 <br/>
 
 <div align="center">
-
-  Operational research student with a solid foundation in data science and AI, including machine learning, deep learning, reinforcement learning, and natural language processing. Passionate about problem-solving and specializing in optimizing complex systems, with a focus on modeling and implementing solutions through programming.
- 
-</div>
- 
-<div align="center"> 
-  <a href="faycal213.dz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/faycal-alikacem" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://discord.com/users/900128876309671936" target="_blank">
-     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://www.kaggle.com/Ali kacem faycal" target="_blank">
-     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
-  </a>
+    
+**Passionate about building models from scratch and optimizing complex systems through modeling and programming**
+    
 </div>
 
  <hr/>
