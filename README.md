@@ -6,7 +6,7 @@
 
 <div align="center">
     
-**Passionate about building models from scratch and optimizing complex systems through modeling and programming**
+**AI/ML & Optimization Engineer | Forecasting • Modeling • Intelligent Systems**
     
 </div>
 
